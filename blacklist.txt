@@ -108,6 +108,3 @@
 ## Blacklisting below Pakistan range on 2018-03-09 09:44 PM EST as per request from the fraud team's Jeffrey Casper
 103.255.4.0/24
 37.48.104.0/24
-
-# Test IP
-10.111.96.10
